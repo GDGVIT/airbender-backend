@@ -1,7 +1,17 @@
 const router = require('express').Router();
+const path = require('path')
 
 router.get("/:username", (req, res) => {
-    res.status(200).sendFile('../../users/avatars/' + req.params.username);
+    res.status(200).sendFile(
+        path.join(
+            __dirname,
+            '..',
+            '..',
+            'users', 
+            'avatars', 
+            req.params.username + '.png'
+        )
+    );
 });
 
-module.exports = router;
+exports.router = router;
