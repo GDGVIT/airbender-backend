@@ -20,7 +20,7 @@
 
 ## Instructions to run
 
-* < directions to execute >
+* Directions to execute 
 
 ```bash
 npm start
