@@ -16,7 +16,8 @@
 			"tagline": "Trying to learn, how to learn"
 		},
 	"ssharanyab":{
-		display_name: "S Sharanya Bharghavi",
+		"display_name": "S Sharanya Bharghavi",
 		"tagline":"Learn as I share"
+	}
 		
 }
