@@ -14,7 +14,11 @@
 		"vi_mi": {
 			"display_name": "Fenil Jain",
 			"tagline": "Trying to learn, how to learn"
-		},
+    },
+    "tanmay-xvx":{
+            "display_name":"Tanmay Srivastava",
+            "tagline":"Your average guy handling bugs"
+    },
 	"ssharanyab":{
 		"display_name": "S Sharanya Bharghavi",
 		"tagline":"Learn as I share"
