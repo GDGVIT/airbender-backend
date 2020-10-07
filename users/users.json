@@ -16,8 +16,8 @@
         "tagline": "Trying to learn, how to learn"
     },
     "tanmay-xvx":{
-            "display_name":"Tanmay Srivastava",
-            "tagline":"Your average guy handling bugs"
+        "display_name":"Tanmay Srivastava",
+        "tagline":"Your average guy handling bugs"
     },
 	"ssharanyab":{
 		"display_name": "S Sharanya Bharghavi",
@@ -26,6 +26,10 @@
     "S_BOSE": {
         "display_name": "Souhardya Bose",
         "tagline": "Love to learn and share knowledge"
+    },
+    "AshDarkfold": {
+        "display_name": "Ashutosh Kaushik",
+        "tagline": "A typical we(e)b developer"
     }
 		
 }
