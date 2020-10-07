@@ -11,9 +11,9 @@
         "display_name": "Akshat Gupta",
         "tagline": "I make stuff"
     },
-		"vi_mi": {
-			"display_name": "Fenil Jain",
-			"tagline": "Trying to learn, how to learn"
+    "vi_mi": {
+        "display_name": "Fenil Jain",
+        "tagline": "Trying to learn, how to learn"
     },
     "tanmay-xvx":{
             "display_name":"Tanmay Srivastava",
@@ -22,6 +22,10 @@
 	"ssharanyab":{
 		"display_name": "S Sharanya Bharghavi",
 		"tagline":"Learn as I share"
-	}
+    },
+    "S_BOSE": {
+        "display_name": "Souhardya Bose",
+        "tagline": "Love to learn and share knowledge"
+    }
 		
 }
