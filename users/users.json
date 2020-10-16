@@ -31,7 +31,13 @@
         "display_name": "Ashutosh Kaushik",
         "tagline": "A typical we(e)b developer"
     },
-    "Rajwrita": {
+    {    
+        "Riddhi Gupta": {
+        "display_name": "Riddhi Gupta",
+        "tagline": "Learning as I Grow"
+    },    
+    {
+        "Rajwrita": {
         "display_name": "Rajwrita Nath",
         "tagline": "Arctic Monkeys, coffee and some good code!"
     }
