@@ -1,35 +1,40 @@
 {
-    "saU3RkrAU7": {
+       "saU3RkrAU7": {
         "display_name": "Shantanu Verma",
         "tagline": "I predict the future with computer black magic"
     },
-    "mdhishaamakhtar":{
-        "display_name":"Md Hishaam Akhtar",
-        "tagline":"Bugs come in through open Windows."
+       "mdhishaamakhtar": {
+        "display_name": "Md Hishaam Akhtar",
+        "tagline": "Bugs come in through open Windows."
     },
-    "akshatvg": {
+       "akshatvg": {
         "display_name": "Akshat Gupta",
         "tagline": "I make stuff"
     },
-    "vi_mi": {
+       "vi_mi": {
         "display_name": "Fenil Jain",
         "tagline": "Trying to learn, how to learn"
     },
-    "tanmay-xvx":{
-        "display_name":"Tanmay Srivastava",
-        "tagline":"Your average guy handling bugs"
+        "tanmay-xvx": {
+        "display_name": "Tanmay Srivastava",
+        "tagline": "Your average guy handling bugs"
     },
-	"ssharanyab":{
-		"display_name": "S Sharanya Bharghavi",
-		"tagline":"Learn as I share"
+        "ssharanyab": {
+        "display_name": "S Sharanya Bharghavi",
+        "tagline": "Learn as I share"
     },
-    "S_BOSE.": {
+        "S_BOSE.": {
         "display_name": "Souhardya Bose",
         "tagline": "Love to learn and share knowledge"
     },
-    "AshDarkfold": {
+         "AshDarkfold": {
         "display_name": "Ashutosh Kaushik",
         "tagline": "A typical we(e)b developer"
+    },
+    {
+        "AniketKumar": {
+        "display_name": "Aniket Kumar",
+        "tagline": "Jack of all trades, Master of None then removing N"
     },
     {    
         "Riddhi Gupta": {
@@ -41,5 +46,4 @@
         "display_name": "Rajwrita Nath",
         "tagline": "Arctic Monkeys, coffee and some good code!"
     }
-		
 }
