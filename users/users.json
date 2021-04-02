@@ -66,5 +66,9 @@
     "minosai": {
         "display_name": "Yaswant Narayan",
         "tagline": "Scary artificial intelligence"
+    },
+    "yashmeh":{
+        "display_name":"Yash Mehrotra",
+        "tagline":"Fork it until you make it"
     }
 }
