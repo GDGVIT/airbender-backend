@@ -79,10 +79,16 @@
         "display_name": "Minkush Jain",
         "tagline": "Think Big. Train Fast. Learn Deep."
     },
+    "Chanakya":{
+        "display_name": "Chanakya Kapoor",
+        "tagline": "Making Machines Learn"
+    },
+    "iamyajat":{
+        "display_name": "Yajat Malhotra",
+        "tagline": "🍉"
+    },
     "batmansingh":{
         "display_name": "Yuvraj Singh Pathania",
         "tagline": "Part time developer, full-time learner"
     }
-    
-    
 }
